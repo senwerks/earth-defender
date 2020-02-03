@@ -6,7 +6,7 @@ Made purely to practice Game Maker Studio 2, but I (and my kids) ended up playin
 
 ## How to Play
 
-Download [Earth Defender (Alpha).zip](https://github.com/obsoletenerd/earth-defender/blob/master/Earth%20Defender%20(Alpha).zip), unzip all files to a folder, run the EXE.
+Download [Earth Defender.zip](https://github.com/obsoletenerd/earth-defender/blob/master/Earth%20Defender.zip), unzip all files to a folder, run the EXE.
 
 Windows 10 only for now, I plan on making builds for MacOS and Linux soon.
 
